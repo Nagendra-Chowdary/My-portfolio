@@ -1,0 +1,42 @@
+
+section{
+    padding: 40px 40px;
+}
+#aboutMe{
+    background-color: rgb(117, 226, 150);
+    /* padding: 15px; */
+    margin: 0;
+}
+body{
+    margin: 0;
+    font-family: sans-serif;
+    padding:0px;
+    /* text-align: center; */
+}
+#projects{
+    margin: 0;
+ background-color: aqua;
+ /* padding: 10px; */
+ line-height: 25px;
+
+}
+#projects h2{
+ margin: 0px;
+}
+li{
+    list-style-type: none;
+}
+#contactMe{
+    line-height: 25px;
+    background-color: aquamarine;
+    /* padding: 15px; */
+    height: auto;
+}
+#contactMe a{
+    text-decoration: none;
+    color: black;
+}
+.content{
+    max-width: 800px;
+    margin: auto;
+}
